@@ -156,3 +156,26 @@ footer {
   margin: 40px auto;
   padding: 0 20px;
 }
+
+.social-links {
+  text-align: center;
+  padding: 20px;
+}
+
+.social-button {
+  display: inline-block;
+  padding: 12px 30px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #ffffff;
+  margin: 10px;
+}
+
+.social-button.facebook {
+  background-color: #1877f2;
+}
+
+.social-button.facebook:hover {
+  background-color: #0d65d9;
+}
